@@ -1,0 +1,17 @@
+{
+  "name": "graphql.wtf-schema-loading",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "27.4.5"
+  },
+  "dependencies": {
+    "@graphql-tools/load-files": "6.5.3",
+    "@graphql-tools/merge": "8.2.1",
+    "@graphql-tools/schema": "8.3.1",
+    "faker": "5.5.3",
+    "graphql": "16.2.0"
+  }
+}
